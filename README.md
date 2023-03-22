@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luis-e-navarro
-- 👀 I’m interested in the cloud - micro-services
-- 💞️ I’m looking to collaborate on open source products
+- 👀 I'm interested in low-level programming languages
+- 💞️ I’m looking to build with arduino
 - 📫 How to reach me: https://www.linkedin.com/in/luis-e-navarro/
 
 <!---
